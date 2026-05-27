@@ -1,0 +1,6 @@
+{
+  "name": "CarbonKitchen",
+  "description": "An eco-friendly meal planning app that scores your meals and suggests low-carbon ingredient swaps and alternatives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
